@@ -13,9 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.13.3"
-  },
   "dependencies": {
     "gh-pages": "^6.3.0"
   }
